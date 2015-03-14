@@ -1,0 +1,9 @@
+markdown: rdiscount
+pygments: true
+
+#
+# site configuration
+#
+url: http://yzprofile.me
+title: "yzprofile's Notebook"
+author: yzprofile
